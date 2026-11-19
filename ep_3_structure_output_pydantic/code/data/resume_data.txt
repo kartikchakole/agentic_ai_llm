@@ -1,0 +1,20 @@
+
+RESUME 1
+
+Aarav Sharma is a Software Developer based in Nagpur, Maharashtra. He can be contacted at aarav.sharma@example.com or 9000000001. He completed his Bachelor of Technology in Computer Science from ABC Institute of Technology in 2024 with 82% marks. He has two years of experience working at Tech Solutions Pvt Ltd as a Software Developer. His responsibilities include developing applications, debugging software, writing database queries, and maintaining existing systems. He has technical skills in Python, Java, SQL, HTML, CSS, and Git. He developed a Student Management System using Python and MySQL. He is interested in software development and backend programming opportunities.
+
+RESUME 2
+
+Priya Patel is a Data Analyst from Pune, Maharashtra. Her email address is priya.patel@example.com and her phone number is 9000000002. She completed a Bachelor of Science in Statistics from XYZ College in 2025 with 85% marks. She worked as a Data Analyst Intern at Data Insights Ltd from June 2024 to December 2024. During her internship, she cleaned datasets, analyzed business information, prepared reports, and created interactive dashboards. Her technical skills include Microsoft Excel, SQL, Power BI, Python, Pandas, and data visualization. She completed a Sales Data Analysis project using Power BI. She is seeking opportunities in data analytics and business intelligence.
+
+RESUME 3
+
+Rohan Verma is a Web Developer living in Mumbai, Maharashtra. His contact email is rohan.verma@example.com and his phone number is 9000000003. He completed his Bachelor of Computer Applications from Modern Computer College in 2023 with 78% marks. He has three years of experience developing and maintaining websites at Creative Web Studio. His work includes creating responsive web pages, implementing interactive website features, improving website performance, and fixing technical problems. He is skilled in HTML, CSS, JavaScript, React, Bootstrap, and Git. He created an Online Shopping Website using HTML, CSS, and JavaScript. He is interested in frontend development and full-stack web development roles.
+
+RESUME 4
+
+Sneha Gupta is an HR Executive from Bengaluru, Karnataka. She can be contacted at sneha.gupta@example.com or 9000000004. She completed her Master of Business Administration in Human Resource Management from National Business School in 2024 with 80% marks. She has two years of experience working in human resources at PeopleFirst Solutions. Her responsibilities include screening resumes, shortlisting candidates, scheduling interviews, maintaining employee records, and preparing recruitment reports. Her professional skills include recruitment, communication, Microsoft Excel, HRIS, interview coordination, and employee engagement. She also worked on an Employee Recruitment Tracking project. She is looking for opportunities in human resources and talent acquisition.
+
+RESUME 5
+
+Isha Kulkarni is an entry-level Machine Learning candidate from Pune, Maharashtra. Her email address is isha.kulkarni@example.com and her phone number is 9000000005. She completed her Bachelor of Technology in Information Technology from Future Technology Institute in 2026 with 88% marks. She completed a Machine Learning internship at AI Learning Labs from January 2026 to March 2026. During her internship, she prepared datasets, performed exploratory data analysis, used Python libraries, and evaluated basic classification models. Her technical skills include Python, Pandas, NumPy, Scikit-learn, SQL, and machine learning fundamentals. She developed a Student Performance Prediction project using machine learning techniques. She is seeking an entry-level role in data science or machine learning.

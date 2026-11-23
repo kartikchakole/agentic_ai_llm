@@ -57,11 +57,7 @@ def run_tool(name: str, args: dict) -> str:
         return f"Error running {name}: {type(exc).__name__}."
 
 # Initialize model once globally so each message responds quickly without re-connecting
-llm = init_chat_model(
-    model=MODEL_NAME, 
-    model_provider=MODEL_PROVIDER, 
-    temperature=0.3
-).bind_tools(list(TOOLS.values()))
+llm = init_chat_model(model=MODEL_NAME, model_provider=MODEL_PROVIDER, temperature=0.3).bind_tools(list(TOOLS.values()))
 
 def run_agent(question: str, messages: list) -> str:
     messages.append(HumanMessage(content=question))

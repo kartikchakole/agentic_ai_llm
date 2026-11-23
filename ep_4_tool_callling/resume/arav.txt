@@ -1,0 +1,11 @@
+Aarav Sharma is a Software Developer based in Nagpur, Maharashtra. 
+He can be contacted at aarav.sharma@example.com or 9000000001.
+He completed his Bachelor of Technology in Computer Science 
+from ABC Institute of Technology in 2024 with 82% marks. 
+He has two years of experience working at Tech Solutions Pvt Ltd 
+as a Software Developer. His responsibilities include developing 
+applications, debugging software, writing database queries, and 
+maintaining existing systems. He has technical skills in
+ Python, Java, SQL, HTML, CSS, and Git. He developed a Student 
+ Management System using Python and MySQL. He is interested in 
+ software development and backend programming opportunities.
